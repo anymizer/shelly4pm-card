@@ -23,7 +23,7 @@ Custom Lovelace Card for Shelly 4PM devices.
 
 ```yaml
 type: shelly4pm-card
-title: Sicherungskasten
+title: 
 
 
 ---
